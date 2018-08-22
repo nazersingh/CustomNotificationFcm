@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "914030088200",
+    "firebase_url": "https://notificationgithub-1cb10.firebaseio.com",
+    "project_id": "notificationgithub-1cb10",
+    "storage_bucket": "notificationgithub-1cb10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914030088200:android:5af11f04c94d9ea3",
+        "android_client_info": {
+          "package_name": "com.nazer.saini.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914030088200-rb8kdp3ue4mcf7amvt1in807hutl4hhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nazer.saini.notification",
+            "certificate_hash": "1f090fdeed06fd3b451ce47daae6a7151554235d"
+          }
+        },
+        {
+          "client_id": "914030088200-1c8ngtl0vvgju1q08ps5vnfu19pgcsra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4kTzjL7Fu2sCB1FAJy8dQ6Avd0ib61ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914030088200-1c8ngtl0vvgju1q08ps5vnfu19pgcsra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
